@@ -1,0 +1,16 @@
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\bin\Debug\net8.0-windows\GTAGmodPreset.exe
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\bin\Debug\net8.0-windows\GTAGmodPreset.deps.json
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\bin\Debug\net8.0-windows\GTAGmodPreset.runtimeconfig.json
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\bin\Debug\net8.0-windows\GTAGmodPreset.dll
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\bin\Debug\net8.0-windows\GTAGmodPreset.pdb
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\obj\Debug\net8.0-windows\GTAGmodPreset.Form1.resources
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\obj\Debug\net8.0-windows\GTAGmodPreset.csproj.GenerateResource.cache
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\obj\Debug\net8.0-windows\GTAGmodPreset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\obj\Debug\net8.0-windows\GTAGmodPreset.AssemblyInfoInputs.cache
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\obj\Debug\net8.0-windows\GTAGmodPreset.AssemblyInfo.cs
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\obj\Debug\net8.0-windows\GTAGmodPreset.csproj.CoreCompileInputs.cache
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\obj\Debug\net8.0-windows\GTAGmodPreset.dll
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\obj\Debug\net8.0-windows\refint\GTAGmodPreset.dll
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\obj\Debug\net8.0-windows\GTAGmodPreset.pdb
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\obj\Debug\net8.0-windows\GTAGmodPreset.genruntimeconfig.cache
+C:\Users\mcdon\source\repos\GTAGmodPreset\GTAGmodPreset\obj\Debug\net8.0-windows\ref\GTAGmodPreset.dll
